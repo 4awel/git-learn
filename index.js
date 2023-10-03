@@ -23,4 +23,4 @@ if (c < response) {
     console.log('error!')
 }
 
-console.log('End work!!!')
+console.log('Продолжаем!!!!!!!!')
